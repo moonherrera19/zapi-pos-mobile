@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "f018d501-90f2-44a1-a19a-243549963f7f"
+      }
+    },
+    "android": {
+      "package": "com.monserrat_herrera.zapi"
+    }
+  }
+}
